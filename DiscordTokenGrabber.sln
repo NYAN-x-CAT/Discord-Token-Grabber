@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiscordTokenGrabber", "DiscordTokenGrabber\DiscordTokenGrabber.csproj", "{31B24CB7-1B89-48C6-85F8-C2BE275CA146}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31B24CB7-1B89-48C6-85F8-C2BE275CA146}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31B24CB7-1B89-48C6-85F8-C2BE275CA146}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31B24CB7-1B89-48C6-85F8-C2BE275CA146}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31B24CB7-1B89-48C6-85F8-C2BE275CA146}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CEEDBF94-B6D9-440B-80B2-4C0554B9A95A}
+	EndGlobalSection
+EndGlobal
